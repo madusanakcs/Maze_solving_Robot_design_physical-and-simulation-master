@@ -1,0 +1,6 @@
+1.Go to the controller code
+2.Go to line 107 and if the selected color is red, change the char colour to 'r' and if selected color is blue, change the char colour to 'b'.
+3.Save the edited code.
+4.Compile it.
+5.Relod the world.
+6.Run the simulation.
